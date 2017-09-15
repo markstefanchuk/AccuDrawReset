@@ -28,3 +28,11 @@ to the MicroStation folder containing ustation.exe
 Use bmake to compile. Example included in go.bat. The MicroStation
 SDK command window is the easiest way to build the source.
 
+Open the command window and cd to MicroStation\mdl\bin\
+For a standard install,
+c:\Program Files (x86)\Bentley\MicroStation V8i (Selectseries)\MicroStation\mdl\bin\
+
+From this location you can run,
+bmake -a (path to app)\adrstv8i.mke
+
+For me, bmake -a Z:\Documents\Github\CADGURUS\adrstv8i\adrstv8i.mke
