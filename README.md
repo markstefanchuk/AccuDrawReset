@@ -1,4 +1,4 @@
-# adrstv8i
+# Accudraw Reset
 MicroStation V8i MDL Add-in changes Focus to accudraw on reset
 
 ## Usage
@@ -12,17 +12,17 @@ Dev note: Not certain how useful this add-in is. It
 might interfere with other event listeners.
 
 ## Files
-adrstv8i.h - header file
-adrstv8i.ma - compiled add-in. Put this file in your mdlapps folder.
-adrstv8i.mc - main code file and entry point.
-adrstv8i.mke - make file
-adrstv8i.mki - make file called from mke.
-adrstv8i.r - standard resource file
-adrstv8icmd.r - command resources
-fdf.fdf - program includes (not an Adobe file)
-go.bat - use this file to run bmake. Needs to be edited and
-expects that the environment variable MS is defined and points
-to the MicroStation folder containing ustation.exe
+adrstv8i.h - header file.<br />
+adrstv8i.ma - compiled add-in. Put this file in your mdlapps folder.<br />
+adrstv8i.mc - main code file and entry point.<br />
+adrstv8i.mke - make file.<br />
+adrstv8i.mki - make file called from mke.<br />
+adrstv8i.r - standard resource file.<br />
+adrstv8icmd.r - command resources.<br />
+fdf.fdf - program includes.<br />
+go.bat - use this file to run bmake. Needs to be edited and<br />
+expects that the environment variable MS is defined and points<br />
+to the MicroStation folder containing ustation.exe.<br />
 
 ## Compiling the Source
 Use bmake to compile. Example included in go.bat. The MicroStation
