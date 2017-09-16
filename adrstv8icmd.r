@@ -20,7 +20,7 @@
 |   the documentation and/or other materials provided with the 			|
 |   distribution.														|
 |           															|
-|   Neither name of Mark Stefanchuk, CAD Management Resources nor the	| 
+|   Neither name of Mark Stefanchuk, The Phocaz Group, LLC nor the		| 
 |   names of its contributors may be used to endorse or promote			|
 |   products derived from this software without specific prior          |
 |   written permission.													|
