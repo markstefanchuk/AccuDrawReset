@@ -12,12 +12,11 @@ Dev note: Not certain how useful this add-in is. It
 might interfere with other event listeners.
 
 ## Files
-9/17/2017 - added source for older versions. The following folders were added.
-adrst: Original accudraw reset code.
-adrstse: compiled version for MicroStationSE
-adrstV8: first version for V8
-adrstXM: updated V8 version for MicroStationXM build.
-
+9/17/2017 - added source for older versions. The following folders were added.<br />
+adrst: Original accudraw reset code.<br />
+adrstse: compiled version for MicroStationSE<br />
+adrstV8: first version for V8<br />
+adrstXM: updated V8 version for MicroStationXM build.<br /><br />
 adrstv8i.h - header file.<br />
 adrstv8i.ma - compiled add-in. Put this file in your mdlapps folder.<br />
 adrstv8i.mc - main code file and entry point.<br />
