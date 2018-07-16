@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<KeyinTree xmlns="http://www.bentley.com/schemas/1.0/MicroStation/AddIn/KeyinTree.xsd">
+
+  <!-- Required | Root Table (ORDSIGNS) -->
+  <RootKeyinTable ID="root">
+    <Keyword SubtableRef="Commands" CommandWord="ADRST">
+      <Options Required="true" />
+    </Keyword>
+  </RootKeyinTable>
+
+  <SubKeyinTables>
+    <KeyinTable ID="Commands">
+      <Keyword CommandWord="LOAD"></Keyword>
+    </KeyinTable>
+  </SubKeyinTables>
+
+  <!-- Maps Keyin Commands to Functions in Keyin class -->
+  <KeyinHandlers>
+    <KeyinHandler Keyin="ADRST LOAD" Function="adrstmsc.Keyin.CmdLoadMain"/>
+  </KeyinHandlers>
+
+</KeyinTree>

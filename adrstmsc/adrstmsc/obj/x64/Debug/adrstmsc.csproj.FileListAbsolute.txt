@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\Documents\GitHub\CADGURUS\AccuDrawReset\adrstmsc\adrstmsc\obj\x64\Debug\adrstmsc.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\GitHub\CADGURUS\AccuDrawReset\adrstmsc\adrstmsc\bin\x64\Debug\adrstmsc.dll
+\\vmware-host\Shared Folders\Documents\GitHub\CADGURUS\AccuDrawReset\adrstmsc\adrstmsc\bin\x64\Debug\adrstmsc.pdb
+\\vmware-host\Shared Folders\Documents\GitHub\CADGURUS\AccuDrawReset\adrstmsc\adrstmsc\obj\x64\Debug\adrstmsc.dll
+\\vmware-host\Shared Folders\Documents\GitHub\CADGURUS\AccuDrawReset\adrstmsc\adrstmsc\obj\x64\Debug\adrstmsc.pdb
