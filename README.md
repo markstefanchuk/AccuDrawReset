@@ -5,7 +5,8 @@ Commit description says that the V8i version if for MS Connect. This is not righ
 ## What do I Download?
 If you just want to install and run the program...<br><br>
 For MicroStation Connect: Open the AccuDrawReset/adrstmsc/adrstmsc/bin/x64/Debug/ folder. Find the file Adrstmsc.dll. Right click and download this file. Put it in your MdlApps folder.<br><br>
-All other versions - go to the applicable version folder. That is adrstxm for XM, adrstv8i for V8i and so on. Find the file with the .ma extension. Right click to download this file. Put it in your MdlApps folder.
+All other versions - go to the applicable version folder. That is adrstxm for XM, adrstv8i for V8i and so on. Find the file with the .ma extension. Right click to download this file. Put it in your MdlApps folder.<br><br>
+If you want to build the program I recommend cloning the git repo or downloading the project as a zip file. I used VS 2017 to build the MS Connect version. And you can edit the MDL versions with any text editor like Notepad++. See the section below on compiling the source (this applies to the MDL versions).
 
 ## V8i Usage
 To load: MDL LOAD ADRSTV8I
